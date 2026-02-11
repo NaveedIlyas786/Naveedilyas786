@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/naveedilyas2?_rdc=2&_rdr#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naveed-ilyas-222679350/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCZXWV9IFXyzoN37TegrEquA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveedilyas321@gmail.com) 
 
-🛠 Tech Stack
+🛠 Tech Stacks
 
 Frontend (React.js, Next.js, JavaScript, HTML, CSS, Tailwind, Redux, Tanstack, MUI, Shadcn)
 Backend (Node.js, Express.js, REST APIs)
